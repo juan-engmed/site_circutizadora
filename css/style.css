@@ -1748,7 +1748,7 @@ margin-top: 10px; }
 
  .visao{
      /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(rgb(95, 95, 95), rgba(68, 65, 65, 0.767)), url("../images/count-bg.jpg");
+  background-image: linear-gradient(rgb(116, 115, 115), rgba(68, 65, 65, 0.767)), url("../images/count-bg.jpg");
 
   /* Set a specific height */
   height: 50%;
