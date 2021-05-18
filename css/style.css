@@ -1796,3 +1796,19 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   background-size: cover;
   position: relative;
 }
+
+#team-section{
+
+  background-image: linear-gradient(rgb(224, 224, 224), rgba(61, 57, 107, 0.767)), url("../images/leader.jpg");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+  color: rgb(255, 255, 255);
+}
