@@ -1742,4 +1742,23 @@ margin-top: 30px; }
     color: #1f2555;
   }
 
- 
+ .borda{
+   border-radius: 10px;
+ }
+
+ .visao{
+     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgb(95, 95, 95), rgba(68, 65, 65, 0.767)), url("../images/count-bg.jpg");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+  color: rgb(255, 255, 255);
+
+ }
