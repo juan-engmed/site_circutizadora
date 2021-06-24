@@ -1816,10 +1816,12 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 #flag {
 border-radius: 5px;
  width: 1.5em;
+ height: 1em;
  margin-left: 5px;
 }
 #flag2 {
-  border-radius: 5px;
-   width: 1.6em;
+  border-radius: 4px;
+   width: 1.5em;
+   height: 0.9em;
    margin-left: 5px;
   }
