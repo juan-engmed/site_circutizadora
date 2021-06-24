@@ -1812,3 +1812,14 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 
   color: rgb(255, 255, 255);
 }
+
+#flag {
+border-radius: 5px;
+ width: 1.5em;
+ margin-left: 5px;
+}
+#flag2 {
+  border-radius: 5px;
+   width: 1.6em;
+   margin-left: 5px;
+  }
