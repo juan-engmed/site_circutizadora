@@ -277,7 +277,8 @@ margin-top: 10px; }
   .site-navbar .site-logo {
     position: relative;
     left: 0;
-    top: -5px; }
+    top: -5px; 
+  }
   .site-navbar .site-navigation.border-bottom {
     border-bottom: 1px solid #f3f3f4 !important; }
   .site-navbar .site-navigation .site-menu {
@@ -1825,3 +1826,8 @@ border-radius: 5px;
    height: 0.9em;
    margin-left: 5px;
   }
+
+.logo{
+  width: 1px;
+  height: 1px;
+}
