@@ -1835,3 +1835,11 @@ border-radius: 5px;
 .gold{
   color: #c49a6c;
 }
+
+p{
+  text-align: justify;
+}
+
+.cargo{
+  text-align: center;
+}
