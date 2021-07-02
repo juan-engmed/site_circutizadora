@@ -1841,6 +1841,7 @@ border-radius: 5px;
 .cargo{
   text-align: center;
   color: #1f2555 !important;
+  font-weight: 600;
 }
 
 .lang{
