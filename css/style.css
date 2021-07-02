@@ -1841,3 +1841,26 @@ border-radius: 5px;
 .cargo{
   text-align: center;
 }
+
+.lang{
+  margin: 3px;
+  padding: 0 3px;
+  border: solid 1px;
+  border-radius: 3px;
+  color: #1f2555;
+}
+
+.links:hover{
+  color: #c49a6c !important
+}
+
+.bttn-portal{
+  color: #fff;
+  padding: 8px;
+  margin-left: 10px;
+  border-radius: 2px;
+  background-color: #1f2555;
+  width: 1rem;
+  font-size: 10px;
+  text-align: center;
+}
